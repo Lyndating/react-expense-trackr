@@ -13,6 +13,7 @@ function SignUp(props) {
         password: '',
         password_confirmation: ''
     })
+    
 
 
     // dynamic function
