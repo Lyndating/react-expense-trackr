@@ -38,7 +38,7 @@ function Home() {
   
     return (
     <div> 
-        <p>Try me out... <br/> Email: Wyane@ga.co | Password: password </p>
+        <p>Try me out.... <br/> Email: Wyane@ga.co | Password: password </p>
         <SignIn signIn={signIn} error={signinError} />
         <h2 className = "signupheader">Not a member, why not sign up?</h2>
         <Button variant="secondary" href="/signup">Sign Up</Button>
